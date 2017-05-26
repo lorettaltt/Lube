@@ -1,0 +1,12 @@
+C:\Users\loretta\Documents\Visual Studio 2015\Projects\Lube\Lube\obj\Debug\Lube.Login.resources
+C:\Users\loretta\Documents\Visual Studio 2015\Projects\Lube\Lube\obj\Debug\Lube.pqRecord.resources
+C:\Users\loretta\Documents\Visual Studio 2015\Projects\Lube\Lube\obj\Debug\Lube.Properties.Resources.resources
+C:\Users\loretta\Documents\Visual Studio 2015\Projects\Lube\Lube\obj\Debug\Lube.WFMain.resources
+C:\Users\loretta\Documents\Visual Studio 2015\Projects\Lube\Lube\obj\Debug\Lube.csproj.GenerateResource.Cache
+C:\Users\loretta\Documents\Visual Studio 2015\Projects\Lube\Lube\bin\Debug\Lube.exe.config
+C:\Users\loretta\Documents\Visual Studio 2015\Projects\Lube\Lube\bin\Debug\Lube.exe
+C:\Users\loretta\Documents\Visual Studio 2015\Projects\Lube\Lube\bin\Debug\Lube.pdb
+C:\Users\loretta\Documents\Visual Studio 2015\Projects\Lube\Lube\obj\Debug\Lube.csprojResolveAssemblyReference.cache
+C:\Users\loretta\Documents\Visual Studio 2015\Projects\Lube\Lube\obj\Debug\Lube.exe
+C:\Users\loretta\Documents\Visual Studio 2015\Projects\Lube\Lube\obj\Debug\Lube.pdb
+C:\Users\loretta\Documents\Visual Studio 2015\Projects\Lube\Lube\obj\Debug\Lube.MRegister.resources
